@@ -14,3 +14,10 @@
 3.git tag v1.2
 4.git push origin master
 5.git push origin --tags
+
+°æ±¾3
+1.git add -A
+2.git commit -m "v1.3, improved v1.2 use the structure and function pointer to print info--(01th_opp)"
+3.git tag v1.3
+4.git push origin master
+5.git push origin --tags
