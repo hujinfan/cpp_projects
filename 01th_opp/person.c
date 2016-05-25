@@ -2,13 +2,13 @@
 
 int main(int argc, char **argv)
 {
-	char *zs_name = "zhangsan";
-	int zs_age = 10;
-
-	char *ls_name = "lisi";
-	int ls_age = 16;
-
-	printf("name = %s, age = %d\n", zs_name, zs_age);
-	printf("name = %s, age = %d\n", ls_name, ls_age);
+	char *names[] = {"zhangsan", "lisi"};
+	char ages[]  = {10, 16};
+	int i;
+	
+	for(i=0; i<2; i++)
+	{
+		printf("name = %s, age = %d\n", names[i], ages[i]);
+	}
 	return 0;
 }
