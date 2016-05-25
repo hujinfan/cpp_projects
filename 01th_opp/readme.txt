@@ -21,3 +21,11 @@
 3.git tag v1.3
 4.git push origin master
 5.git push origin --tags
+
+
+°æ±¾4
+1.git add -A
+2.git commit -m "v1.4, improved v1.3 use cpp'class to print info--(01th_opp)"
+3.git tag v1.4
+4.git push origin master
+5.git push origin --tags
