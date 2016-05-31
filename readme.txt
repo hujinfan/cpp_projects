@@ -25,3 +25,10 @@
 3.git tag v6
 4.git push origin master
 5.git push origin --tags
+
+°æ±¾8
+1.git add -A
+2.git commit -m "v8, C++ static members and friend members--(07th_static/08th_friend)"
+3.git tag v8
+4.git push origin master
+5.git push origin --tags
