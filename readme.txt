@@ -46,3 +46,10 @@
 3.git tag v10
 4.git push origin master
 5.git push origin --tags
+
+°æ±¾11
+1.git add -A
+2.git commit -m "v11, C++ multi_inheritance--(11th_multi_inheritance)"
+3.git tag v11
+4.git push origin master
+5.git push origin --tags
