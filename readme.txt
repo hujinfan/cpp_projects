@@ -39,3 +39,10 @@
 3.git tag v9
 4.git push origin master
 5.git push origin --tags
+
+°æ±¾10
+1.git add -A
+2.git commit -m "v10, C++ inheritance--(10th_inheritance)"
+3.git tag v10
+4.git push origin master
+5.git push origin --tags
