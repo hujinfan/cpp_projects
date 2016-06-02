@@ -53,3 +53,10 @@
 3.git tag v11
 4.git push origin master
 5.git push origin --tags
+
+°æ±¾12
+1.git add -A
+2.git commit -m "v12, C++ constructor£¬virtual inheritance--(12th_constructor_2)"
+3.git tag v12
+4.git push origin master
+5.git push origin --tags
