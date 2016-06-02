@@ -60,3 +60,10 @@
 3.git tag v12
 4.git push origin master
 5.git push origin --tags
+
+°æ±¾13
+1.git add -A
+2.git commit -m "v13, C++ polymorphism--(13th_polymorphism)"
+3.git tag v13
+4.git push origin master
+5.git push origin --tags
