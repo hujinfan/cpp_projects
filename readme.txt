@@ -88,3 +88,10 @@
 3.git tag v16
 4.git push origin master
 5.git push origin --tags
+
+°æ±¾17
+1.git add -A
+2.git commit -m "v17, C++ class_template--(17th_class_template)"
+3.git tag v17
+4.git push origin master
+5.git push origin --tags
