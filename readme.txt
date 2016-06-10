@@ -102,3 +102,10 @@
 3.git tag v18
 4.git push origin master
 5.git push origin --tags
+
+°æ±¾19
+1.git add -A
+2.git commit -m "v19, C++ class_smartpointer--(19th_smartpointer)"
+3.git tag v19
+4.git push origin master
+5.git push origin --tags
